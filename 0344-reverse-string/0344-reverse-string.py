@@ -12,8 +12,8 @@ class Solution:
         # reverse_str(0, len(s)-1)
 
 
-
-        s.reverse()
+        s[:] = s[::-1]
+        # s.reverse()
 
 
 
