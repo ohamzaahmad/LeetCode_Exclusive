@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0013-roman-to-integer) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2886-faulty-keyboard](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2886-faulty-keyboard) |
 ## Simulation
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
