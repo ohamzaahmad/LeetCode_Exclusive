@@ -6,6 +6,8 @@ class Solution:
         # ex: [1,2,3,4], k=2
         # to reduce the iteration bcz of its circular path
         k %=len(nums)
+        if k == 0:
+            return nums
         def ReverseSolution(left,right):
             while left<right:
                 nums[left],nums[right]=nums[right],nums[left]
