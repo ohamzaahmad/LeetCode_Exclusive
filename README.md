@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2886-faulty-keyboard](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2886-faulty-keyboard) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2886-faulty-keyboard](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2886-faulty-keyboard) |
 ## Linked List
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
