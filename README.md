@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1791-richest-customer-wealth) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Prefix Sum
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2886-faulty-keyboard](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2886-faulty-keyboard) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Stack
 |  |
 | ------- |
