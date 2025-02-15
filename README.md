@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2383-add-two-integers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
