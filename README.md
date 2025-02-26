@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1603-running-sum-of-1d-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1791-richest-customer-wealth](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2383-add-two-integers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2383-add-two-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
@@ -159,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
