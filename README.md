@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3429-special-array-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
