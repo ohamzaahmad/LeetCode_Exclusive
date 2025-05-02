@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0344-reverse-string) |
+| [0868-push-dominoes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0868-push-dominoes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
+| [0868-push-dominoes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
