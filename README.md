@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0797-rabbits-in-forest) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0868-push-dominoes) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
