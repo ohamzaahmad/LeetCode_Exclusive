@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3630-total-characters-in-string-after-transformations-ii) |
