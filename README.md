@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3429-special-array-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3647-zero-array-transformation-iii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3647-zero-array-transformation-iii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -259,12 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
