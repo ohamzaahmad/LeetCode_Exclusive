@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0797-rabbits-in-forest) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
