@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3227-find-missing-and-repeated-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3637-count-number-of-balanced-permutations) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
