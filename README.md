@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3194-find-words-containing-character) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
