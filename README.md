@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2383-add-two-integers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2383-add-two-integers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3201-distribute-candies-among-children-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
