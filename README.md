@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
