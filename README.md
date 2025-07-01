@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
