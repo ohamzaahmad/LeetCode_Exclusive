@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2665-minimum-time-to-repair-cars) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0868-push-dominoes) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3321-type-of-triangle) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
