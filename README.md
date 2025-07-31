@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
