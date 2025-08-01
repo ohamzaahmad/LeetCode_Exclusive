@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0118-pascals-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0905-length-of-longest-fibonacci-subsequence) |
