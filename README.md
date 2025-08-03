@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3618-find-the-original-typed-string-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2856-count-complete-subarrays-in-an-array) |
