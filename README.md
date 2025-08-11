@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2529-range-product-queries-of-powers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2529-range-product-queries-of-powers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2665-minimum-time-to-repair-cars) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3639-zero-array-transformation-i) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2529-range-product-queries-of-powers](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3600-find-the-k-th-character-in-string-game-i) |
