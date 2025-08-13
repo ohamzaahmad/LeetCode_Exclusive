@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0412-fizz-buzz) |
 | [0797-rabbits-in-forest](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0826-soup-servings) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
