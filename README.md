@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3429-special-array-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
