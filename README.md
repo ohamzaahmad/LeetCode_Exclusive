@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0118-pascals-triangle) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0854-making-a-large-island) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0797-rabbits-in-forest) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ohamzaahmad/LeetCode_Exclusive/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
